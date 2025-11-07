@@ -7,6 +7,6 @@
 </ul>
 
 <p><strong>Skills</strong></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,supabase,postgresql,neon,vercel,git,github,tailwind,html,css,shadcn" alt="My Skills" />
+<a href="https://github.com/simple-icons/simple-icons">
+  <img src="https://simpleskill.icons.workers.dev/svg?i=typescript,javascript,react,nextdotjs,nodedotjs,python,java,supabase,postgresql,vercel,git,github,tailwindcss,html5,css3,shadcnui&theme=light" alt="My Skills" />
 </a>
