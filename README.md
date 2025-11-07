@@ -8,5 +8,5 @@
 
 <p><strong>Skills</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,supabase,postgresql,vercel,git,github,tailwind,html,css,shadcn" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,supabase,postgresql,vercel,git,github,tailwind,html,css" alt="My Skills" />
 </a>
