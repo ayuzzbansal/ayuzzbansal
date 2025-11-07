@@ -8,6 +8,6 @@
     </td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=ts,js,tailwind,css,nodejs,trpc,nextjs,react,python,java,shadcnui&theme=light" alt="My Skills" />
       </a>
     </td>
