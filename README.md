@@ -5,9 +5,3 @@
       <li> 🧠 Building in public & blogging @ <a href="https://ayuzz.dev">ayuzz.dev</a> + <a href="https://x.com/ayuzzbansal">X</a> </li>
       <li> 📧 Let's Connect @ <a href="mailto:digital.ayubansal@gmail.com"></a>digital.ayubansal@gmail.com</li>
 </ul>
-
-<p><strong>Skills</strong></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,supabase,postgresql,vercel,git,github,tailwind,html,css" alt="My Skills" />
-</a>
-
